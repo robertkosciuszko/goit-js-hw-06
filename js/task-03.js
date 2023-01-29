@@ -27,4 +27,5 @@ list.style.display = 'flex';
 list.style.flexWrap = 'column-reverse'
 list.style.listStyle = 'none'
 list.style.gap = '20px'
+
 list.style.justifyContent = 'center'
