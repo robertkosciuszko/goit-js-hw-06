@@ -58,3 +58,4 @@ buttonPlus.addEventListener('click', () => {
 counterValue++
 displayCounter.textContent = counterValue
 })*/
+
